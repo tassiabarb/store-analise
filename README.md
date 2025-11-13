@@ -1,6 +1,6 @@
-# Análise das Lojas – Alura Store
+# Análise das Lojas Alura Store Brasil
 
-Este projeto faz parte do desafio de Data Science da Alura, onde o objetivo é analisar quatro lojas virtuais e determinar qual delas deve ser vendida pelo proprietário, Senhor João.
+Este projeto faz parte do desafio do curso de Data Science da Alura, onde o objetivo é analisar quatro lojas virtuais e determinar qual delas deve ser vendida pelo proprietário, Senhor João.
 
 A análise foi realizada utilizando Python e bibliotecas de manipulação de dados e visualização no Google Colab.
 
